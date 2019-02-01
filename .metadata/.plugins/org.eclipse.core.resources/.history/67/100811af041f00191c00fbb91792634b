@@ -1,0 +1,17 @@
+package com.luv2code.springboot.curddemo.dao;
+
+import java.util.List;
+
+import org.springframework.stereotype.Repository;
+
+import com.luv2code.springboot.curddemo.entity.Employee;
+@Repository
+public class EmployeeDAOHibernateImpl implements EmployeeDAO {
+
+	@Override
+	public List<Employee> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

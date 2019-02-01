@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/vivek/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3274657381.index
+948955542.index
+557173393.index
+3516587808.index
+2368464066.index
+1709210589.index
+9541272.index

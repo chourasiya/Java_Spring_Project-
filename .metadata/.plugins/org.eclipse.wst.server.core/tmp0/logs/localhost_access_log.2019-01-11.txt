@@ -1,0 +1,15 @@
+127.0.0.1 - - [11/Jan/2019:13:50:24 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [11/Jan/2019:13:56:08 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 404 1094
+127.0.0.1 - - [11/Jan/2019:13:56:32 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [11/Jan/2019:13:56:53 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 200 82
+0:0:0:0:0:0:0:1 - - [11/Jan/2019:13:57:18 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 200 82
+127.0.0.1 - - [11/Jan/2019:13:57:56 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 200 82
+127.0.0.1 - - [11/Jan/2019:14:21:04 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [11/Jan/2019:14:21:04 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 200 82
+127.0.0.1 - - [11/Jan/2019:17:06:49 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [11/Jan/2019:17:06:50 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 200 82
+127.0.0.1 - - [11/Jan/2019:17:08:12 +0530] "GET /spring-mvc-demo/showForm HTTP/1.1" 200 266
+127.0.0.1 - - [11/Jan/2019:17:08:19 +0530] "GET /spring-mvc-demo/processForm?studentName=vivek HTTP/1.1" 200 157
+127.0.0.1 - - [11/Jan/2019:17:10:59 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 200 129
+127.0.0.1 - - [11/Jan/2019:17:11:06 +0530] "GET /spring-mvc-demo/showForm HTTP/1.1" 200 266
+127.0.0.1 - - [11/Jan/2019:17:11:11 +0530] "GET /spring-mvc-demo/processForm?studentName=vivek HTTP/1.1" 200 157

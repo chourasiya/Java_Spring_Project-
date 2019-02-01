@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Mon Jan 21 17:56:48 IST 2019
+org.eclipse.jst.jee.server\:/binary\:/home/vivek/eclipse-workspace/spring-mvc-demo/WebContent/WEB-INF/lib/spring-web-5.1.3.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.1.3.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:/home/vivek/eclipse-workspace/web-customer-tracker/WebContent/WEB-INF/lib/spring-web-5.1.3.RELEASE.jar=WEB-INF/lib/spring-web-5.1.3.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:/home/vivek/eclipse-workspace/spring-mvc-demo/WebContent/WEB-INF/lib/spring-web-5.1.3.RELEASE.jar=WEB-INF/lib/spring-web-5.1.3.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:/home/vivek/eclipse-workspace/web-customer-tracker/WebContent/WEB-INF/lib/spring-web-5.1.3.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.1.3.RELEASE-sources.jar
